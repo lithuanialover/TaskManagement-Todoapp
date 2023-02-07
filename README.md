@@ -1,7 +1,7 @@
 ## テストユーザー
 メールアドレス
 ```
-dummy@email.com',
+dummy@email.com
 ```
 パスワード
 ```
